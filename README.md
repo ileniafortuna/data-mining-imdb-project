@@ -8,7 +8,7 @@ The work is divided into two main phases:
 - advanced analytical methods
 
 ## Dataset
-The dataset contains information on thousands of titles (movies, series, etc.), described by multiple features such as ratings, votes, awards, genres and production details. :contentReference[oaicite:0]{index=0}
+The dataset contains information on thousands of titles (movies, series, etc.), described by multiple features such as ratings, votes, awards, genres and production details.
 
 ---
 
